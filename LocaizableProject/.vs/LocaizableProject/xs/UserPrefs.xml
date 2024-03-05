@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{8A586824-BF11-4C75-8A21-B598037EC3A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LocaizableProject/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="LocaizableProject/Program.cs" Line="53" Column="1" />
+      <File FileName="LocaizableProject/Views/Home/Index.cshtml" Line="94" Column="27" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.313/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="LocaizableProject/Controllers/HomeController.cs" Line="32" Column="81" />
+      <File FileName="LocaizableProject/Views/Shared/_Layout.cshtml" Line="29" Column="56" />
+      <File FileName="LocaizableProject/Resources/Views/Home/Index.en.resx" Line="1" Column="1" />
+      <File FileName="LocaizableProject/Views/Shared/_LanguagePartial.cshtml" Line="16" Column="17" />
+      <File FileName="LocaizableProject/Resources/Controllers/HomeController.hi.resx" Line="20" Column="68" />
+      <File FileName="LocaizableProject/appsettings.json" Line="1" Column="1" />
+      <File FileName="LocaizableProject/Resources/Views/Home/Index.gu.resx" Line="1" Column="1" />
+      <File FileName="LocaizableProject/Resources/Controllers/HomeController.gu.resx" Line="1" Column="1" />
+      <File FileName="LocaizableProject/Resources/Controllers/HomeController.en.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LocaizableProject" expanded="True">
+            <Node name="LocaizableProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="Home" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LocaizableProject PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
